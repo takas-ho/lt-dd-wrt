@@ -9,7 +9,7 @@
 
 - USB付きで <!-- .element: class="fragment" -->
 - 安くて <!-- .element: class="fragment" -->
-- <!-- .element: class="fragment" --> <span style="color: orange;">DD-WRT</span>対応を買おう！
+- <!-- .element: class="fragment" --> <span style="color: orange;">dd-wrt</span>対応を買おう！
 
 ---
 
@@ -22,7 +22,7 @@
 ## WZR-HP-AG300H(2010年製)
 
 - USB2.0付き
-- <span style="color: orange;">DD-WRT</span>で運用してた
+- <span style="color: orange;">dd-wrt</span>で運用してた
 
 Note:
 
@@ -49,7 +49,7 @@ sshでも繋がる設定にしとくべきだったと後悔
 
 # 原因は？
 
-- 3ヶ月くらい前にやった<span style="color: orange;">DD-WRT</span>のverupか？
+- 3ヶ月くらい前にやった<span style="color: orange;">dd-wrt</span>のverupか？
 
 Note:
 
@@ -66,12 +66,12 @@ planexとかfonとか、聞いたことのない使ったことのないメー�
 ## WZR-1166DHP2(2013年製)
 
 - USB3.0付き
-- <span style="color: orange;">DD-WRT</span>で運用予定
+- <span style="color: orange;">dd-wrt</span>で運用予定
 
 Note:
 
 - 3年も進化したぜ
-- DD-WRTが対応してる機種で、まあまあ新しそう
+- dd-wrtが対応してる機種で、まあまあ新しそう
 - \5000-
 
 ---
@@ -82,7 +82,7 @@ Note:
 
 # FAQ
 
-## <span style="color: orange;">DD-WRT</span>ってなに？
+## <span style="color: orange;">dd-wrt</span>ってなに？
 
 - WiFiルーターのフリーのファームウェア
 - 対応Hardは結構多い
@@ -100,7 +100,7 @@ Note:
 ## メーカー保証受けられない？
 
 - その通りだが、サポート終了したらどうするの？
-- <span style="color: orange;">DD-WRT</span>は、長いこと続いててサポート終了にならないぜ
+- <span style="color: orange;">dd-wrt</span>は、長いこと続いててサポート終了にならないぜ
 - オーバークロックと同じノリだ
 
 ---
@@ -108,7 +108,7 @@ Note:
 # まとめ
 
 - 新ルーター1166はDual coreのメモリ256MBらしい
-- 週末<span style="color: orange;">DD-WRT</span>入れてルーター差し替えだ
+- 週末<span style="color: orange;">dd-wrt</span>入れてルーター差し替えだ
 - USBが早くなってほしい(切実)
 
 Note:
