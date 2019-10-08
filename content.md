@@ -106,6 +106,9 @@ Note:
 
 ---
 
+<!-- .slide: style="background-color:rgba(0,0,0,0.5); " -->
+<!-- .slide: data-background-iframe="https://ja.wikipedia.org/wiki/DD-WRT" data-background-interactive -->
+
 # まとめ
 
 - 新ルーター1166はDual coreのメモリ256MBらしい
